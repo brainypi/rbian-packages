@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/rbian-packages.gpg] https://brainypi.github.io/rbian-packages ./
+deb [signed-by=/etc/apt/trusted.gpg] https://brainypi.github.io/rbian-packages/bullseye ./
