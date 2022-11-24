@@ -1594,6 +1594,18 @@ Description: Test bench application for video4linux devices
  Qt v4l2 control panel application. You can change all through the v4l2
  interface exposed device controls.
 
+Package: rbian-wallpaper
+Version: 1.0
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./wallpaper/rbian-wallpaper_1.0-1_arm64.deb
+Size: 46273260
+MD5sum: facfa69cfc0497d8ff097552f34804bf
+SHA1: 8cb6faf6fa6c81a866d48da01d4a3b6a009a74b1
+SHA256: 5f6271244dfe8ab2d1af92a51803298796894cf9c35393449382cc0d5a2d6c29
+Description: Wallpaper for Rbian Distro
+ Beautiful wallpaper for the Rbian Distribution.
+
 Package: rkisp-engine
 Source: rkisp-engine
 Version: 2.2.0
