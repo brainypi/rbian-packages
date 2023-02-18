@@ -737,10 +737,10 @@ Version: 1.0
 Architecture: arm64
 Maintainer: BrainyPi Team <support@brainypi.com>
 Filename: ./kernel-modules/kernel-modules-iptables_1.0-1_arm64.deb
-Size: 8845256
-MD5sum: ae992ab1a3f2da5957f66bd9454417de
-SHA1: a2c1d256ab3163074676a0ffd8ae2ae111829eda
-SHA256: 893e04e1c0e137a235ed55c71f7fbf468757b584a2c5252b9d8623100245295b
+Size: 16395600
+MD5sum: 3992bcb51ccbd04d2a6e6b4e974e4f71
+SHA1: 12a452887d5c70d3bf928d506ef9758d2f35b28f
+SHA256: 1e94c835cd051e9f2ea7704f25e1f33e6e452574096f717724a2121c654ed18d
 Description: Kernel modules for iptables
  Kernel modules for iptables for the Rbian Distribution.
 
