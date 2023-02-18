@@ -732,6 +732,18 @@ Description: Alter keymaps of Remote Controller devices
  framegrabber cards. Via ir-keytable the mapping from a scancode to
  the generated event can be customized and made persistent.
 
+Package: kernel-modules-iptables
+Version: 1.0
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./kernel-modules/kernel-modules-iptables_1.0-1_arm64.deb
+Size: 8845256
+MD5sum: ae992ab1a3f2da5957f66bd9454417de
+SHA1: a2c1d256ab3163074676a0ffd8ae2ae111829eda
+SHA256: 893e04e1c0e137a235ed55c71f7fbf468757b584a2c5252b9d8623100245295b
+Description: Kernel modules for iptables
+ Kernel modules for iptables for the Rbian Distribution.
+
 Package: libdrm-cursor
 Version: 1.3.0-1
 Architecture: arm64
