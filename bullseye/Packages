@@ -1505,6 +1505,43 @@ Description: Video4linux frame format conversion library
  .
  This package contains the shared library.
 
+Package: linux-headers-4.19.219shunyaos
+Source: linux-4.19.219shunyaos
+Version: 1.0-3
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Installed-Size: 74081
+Filename: ./kernel-modules/linux-headers-4.19.219shunyaos_1.0-3_arm64.deb
+Size: 10665524
+MD5sum: 4049d33cf25849614447c5c6be04c37d
+SHA1: c66c1dc052a5aa5738676321dd0b6511ff011b64
+SHA256: 61a198fb1870e8d45820fe10f62cbf4f9e65b538f0237fdeb2e2a4adec5fb6ae
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.19.219shunyaos on arm64
+ This package provides kernel header files for 4.19.219shunyaos on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-modules-4.19.219shunyaos
+Source: linux-4.19.219shunyaos
+Version: 1.0-3
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./kernel-modules/linux-modules-4.19.219shunyaos_1.0-2_arm64.deb
+Size: 154432268
+MD5sum: 31c941c49b23f6ecbb721be5438c6b6a
+SHA1: b6d562c6d2e84801f6dcb2bc8445759661778841
+SHA256: 8611fed771d5a607c65aee697a11578b935f551771d8570bb2b28ae4f3d8dfef
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel modules for 4.19.219shunyaos on arm64
+ This package provides kernel modules files for 4.19.219shunyaos on arm64
+ .
+ This is useful for people who need to build external modules
+
 Package: openbox
 Version: 3.6.1-9+deb11u1
 Architecture: arm64
