@@ -1532,10 +1532,10 @@ Maintainer: BrainyPi Team <support@brainypi.com>
 Installed-Size: 9
 Depends: linux-modules-drivers-4.19.219shunyaos, linux-modules-fs-4.19.219shunyaos, linux-modules-others-4.19.219shunyaos
 Filename: ./kernel-modules/linux-modules-4.19.219shunyaos_1.0-4_arm64.deb
-Size: 2102
-MD5sum: e257f64bb7c5c3eecb1d243000b9aa80
-SHA1: 6f8058e2c94f9bd2352dbe8cf30cd5675030ba0e
-SHA256: 8d247bf82cf539cd2545f7dbeecddff77f72043c88bbfd178276049d76025f58
+Size: 2120
+MD5sum: de7e9bc6ca842bac94cda8cce41e0c28
+SHA1: de5fbc2db78a39dfbd14d82c6777d85b43f6b248
+SHA256: 053b6e06d8afb2a27ed99a351272b316114026ddbb6f10c6264dac5b25366e3d
 Section: kernel
 Priority: optional
 Multi-Arch: foreign
