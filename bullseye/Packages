@@ -1526,14 +1526,68 @@ Description: Linux kernel headers for 4.19.219shunyaos on arm64
 
 Package: linux-modules-4.19.219shunyaos
 Source: linux-4.19.219shunyaos
-Version: 1.0-3
+Version: 1.0-4
 Architecture: arm64
 Maintainer: BrainyPi Team <support@brainypi.com>
-Filename: ./kernel-modules/linux-modules-4.19.219shunyaos_1.0-2_arm64.deb
-Size: 154432268
-MD5sum: 31c941c49b23f6ecbb721be5438c6b6a
-SHA1: b6d562c6d2e84801f6dcb2bc8445759661778841
-SHA256: 8611fed771d5a607c65aee697a11578b935f551771d8570bb2b28ae4f3d8dfef
+Installed-Size: 9
+Depends: linux-modules-drivers-4.19.219shunyaos, linux-modules-fs-4.19.219shunyaos, linux-modules-others-4.19.219shunyaos
+Filename: ./kernel-modules/linux-modules-4.19.219shunyaos_1.0-4_arm64.deb
+Size: 2102
+MD5sum: e257f64bb7c5c3eecb1d243000b9aa80
+SHA1: 6f8058e2c94f9bd2352dbe8cf30cd5675030ba0e
+SHA256: 8d247bf82cf539cd2545f7dbeecddff77f72043c88bbfd178276049d76025f58
+Section: kernel
+Priority: optional
+Multi-Arch: foreign
+Description: Linux kernel modules for 4.19.219shunyaos on arm64
+ This is a metapackage which provides kernel modules files for 4.19.219shunyaos on arm64
+
+Package: linux-modules-drivers-4.19.219shunyaos
+Source: linux-4.19.219shunyaos
+Version: 1.0-4
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./kernel-modules/linux-modules-drivers-4.19.219shunyaos_1.0-4_arm64.deb
+Size: 69845792
+MD5sum: 8f024688abe6e280b662ae987fa7b0c9
+SHA1: 87986c974034d820a90b01966af8b0a5507b7f99
+SHA256: 41f7a0856e65ead729d506e487761c2c290e335f2b9a4197a8724c248982501f
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel modules for 4.19.219shunyaos on arm64
+ This package provides kernel modules files for 4.19.219shunyaos on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-modules-fs-4.19.219shunyaos
+Source: linux-4.19.219shunyaos
+Version: 1.0-4
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./kernel-modules/linux-modules-fs-4.19.219shunyaos_1.0-4_arm64.deb
+Size: 30364272
+MD5sum: a38137c51a5e37392c643beb401896eb
+SHA1: f61e41051452064c72a25a919c87a14116203ad3
+SHA256: 140bd57f0c3a2347f02679a9f0436510a86fe9f05e4b48b69db597e68cc606ea
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel modules for 4.19.219shunyaos on arm64
+ This package provides kernel modules files for 4.19.219shunyaos on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-modules-others-4.19.219shunyaos
+Source: linux-4.19.219shunyaos
+Version: 1.0-4
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./kernel-modules/linux-modules-others-4.19.219shunyaos_1.0-4_arm64.deb
+Size: 54231108
+MD5sum: 50a939cc85f3c304c62a5cc375f214b7
+SHA1: c051648f61ffccfae8cd0bc514d9a269d9e1e6cb
+SHA256: 204edc09a27841c957a648c2dfbcc001949ef105cf65bda1f424a1954c563bfc
 Section: kernel
 Priority: optional
 Homepage: http://www.kernel.org/
