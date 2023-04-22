@@ -1,3 +1,15 @@
+Package: aws-iot-device-provisioner
+Version: 1.0
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./aws/aws-iot-device-provisioner_1.0-1_arm64.deb
+Size: 26626440
+MD5sum: ff214758018d50eb208fb41480ffe905
+SHA1: f9b2b527f3d085c7e278d2d51079eb78e7ad97e4
+SHA256: 00cfb2558f4aaa27660f52b49497502c11d56b3ef35f62b7beb15611cd862aa7
+Description: AWS IoT Device provisioner
+ Auto Provision BrainyPi to AWS IoT.
+
 Package: blueman
 Version: 2.1.4-1
 Architecture: arm64
