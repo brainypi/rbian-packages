@@ -1608,6 +1608,19 @@ Description: Linux kernel modules for 4.19.219shunyaos on arm64
  .
  This is useful for people who need to build external modules
 
+Package: matter-pi-gpio-commander
+Version: 1.0
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Depends: avahi-autoipd, avahi-daemon, avahi-discover, avahi-dnsconfd, avahi-ui-utils, avahi-utils
+Filename: ./matter/matter-pi-gpio-commander_1.0-1_arm64.deb
+Size: 23756716
+MD5sum: 846e4b740a6ad94523acf402712221bf
+SHA1: 4215a4e0d574de9d59efb49ca42a5ed459297763
+SHA256: 5cd35500a2f370b3597dcc32505620ff5a1137804b9537ede3572b9a3dbf5d98
+Description: Matter Pi GPIO commander
+ Matter Pi GPIO commander for BrainyPi.
+
 Package: openbox
 Version: 3.6.1-9+deb11u1
 Architecture: arm64
