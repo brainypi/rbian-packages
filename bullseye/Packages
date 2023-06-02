@@ -47,6 +47,18 @@ Priority: optional
 Description: debug symbols for blueman
 Build-Ids: aee6dedf33aa340dd237fd8e0fb79d43889bd1a8
 
+Package: brainypi-gpio-server
+Version: 1.0
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./api/brainypi-gpio-server_1.0-1_arm64.deb
+Size: 21268344
+MD5sum: cece29c6bf5a0091bd9cc489e5748106
+SHA1: ca49c9e61b985567cf527e538616c49e4b536c50
+SHA256: 6a2a32303503b1f292789281dfd4b9815ba3b4253b39475060f5874c1c6b0d35
+Description: BrainyPi GPIO API server
+ Allows users to manipulate GPIO using HTTP.
+
 Package: camera-engine-rkaiq
 Source: rkisp-engine
 Version: 3.0x8.1
