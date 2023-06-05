@@ -1626,10 +1626,10 @@ Architecture: arm64
 Maintainer: BrainyPi Team <support@brainypi.com>
 Depends: avahi-autoipd, avahi-daemon, avahi-discover, avahi-dnsconfd, avahi-ui-utils, avahi-utils
 Filename: ./matter/matter-pi-gpio-commander_1.0-1_arm64.deb
-Size: 23756716
-MD5sum: 846e4b740a6ad94523acf402712221bf
-SHA1: 4215a4e0d574de9d59efb49ca42a5ed459297763
-SHA256: 5cd35500a2f370b3597dcc32505620ff5a1137804b9537ede3572b9a3dbf5d98
+Size: 24744480
+MD5sum: 812a0fe6a8cb91eed7657c631595500d
+SHA1: c32ebb2c70ab69d088abf75d5736e7c9c85b519b
+SHA256: 9f415a449599440173b701df701982c5b027b7cf6fa2c3cecbc444ca23e2befa
 Description: Matter Pi GPIO commander
  Matter Pi GPIO commander for BrainyPi.
 
