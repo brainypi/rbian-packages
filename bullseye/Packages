@@ -1681,10 +1681,10 @@ Version: 2023.0.0.10926.b4452d56304
 Architecture: arm64
 Maintainer: BrainyPi Team <support@brainypi.com>
 Filename: ./openvino/openvino-toolkit_2023.0.0.10926.b4452d56304_arm64.deb
-Size: 21300564
-MD5sum: 3d6dd562b32b0c9329efccedc31522df
-SHA1: 2553d5a5a147c57df2e3df39d59f10254afa2472
-SHA256: 5f017af3a263e3726559de4dae28cb817916fcf70d201d6851c24e55034db493
+Size: 21300720
+MD5sum: 97817678f061d79b18dcc22e80dd4130
+SHA1: 246d2d115f47be4ed8d4216c73004d5f7cd5d1c1
+SHA256: 449fb7c7c5dc5c32c228c52a039355cdf9ed500f9440e520ff43c4409bd13047
 Description: Openvino toolkit for Brainy Pi
  Allows users to run openvino models on BrainyPi.
 
