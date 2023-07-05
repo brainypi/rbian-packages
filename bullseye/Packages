@@ -51,16 +51,12 @@ Package: brainypi-ai-server
 Version: 1.0.0
 Architecture: all
 Maintainer: BrainyPi Team <support@brainypi.com>
-Installed-Size: 9
 Depends: libopencv-dev, nlohmann-json3-dev, libspdlog-dev, brainypi-ai-server-core, brainypi-ai-server-proto
-Filename: ./api/brainypi-ai-server_1.0.0_all.deb
-Size: 2106
-MD5sum: 5b4e721fbd974d7ce6181a4d338e1ea8
-SHA1: ee09ae0632229f2c0869e1778d33e30fb6a96fef
-SHA256: e418df9df12b350955c1cd436636bd5a2ecf324bee40451dac83f5e254c2e5a6
-Section: misc
-Priority: optional
-Multi-Arch: foreign
+Filename: ./api/brainypi-ai-server_1.0-1_all.deb
+Size: 1536
+MD5sum: eff2f3308033dc8001021100153807ee
+SHA1: 73f95dd29c4d4404183d092bdbe44eb86d8597e0
+SHA256: a0a47de2d047a135d36269dbe089eae68cb1e80ac76ff19fd44f750fabad9e14
 Homepage: https://brainypi.com
 Description: BrainyPi AI API server
  REST API server for AI applications.
