@@ -47,6 +47,48 @@ Priority: optional
 Description: debug symbols for blueman
 Build-Ids: aee6dedf33aa340dd237fd8e0fb79d43889bd1a8
 
+Package: brainypi-ai-server
+Version: 1.0.0
+Architecture: all
+Maintainer: BrainyPi Team <support@brainypi.com>
+Installed-Size: 9
+Depends: libopencv-dev, nlohmann-json3-dev, spdlog-dev, brainypi-ai-server-core, brainypi-ai-server-proto
+Filename: ./api/brainypi-ai-server_1.0.0_all.deb
+Size: 2102
+MD5sum: 094ab6b7e23670afa303e654b5c33293
+SHA1: 02fe88acda190345a072eb10a2448aeeca66c63b
+SHA256: 42cd3aa8eaad0ae9f27b2cdea18cde40c4ff744089b625251e00d207ae0b2cf3
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://brainypi.com
+Description: BrainyPi AI API server
+ REST API server for AI applications.
+
+Package: brainypi-ai-server-core
+Version: 1.0.0
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./api/brainypi-ai-server-core_1.0-1_arm64.deb
+Size: 79037264
+MD5sum: 466ed25e8405e88e65cf439278382827
+SHA1: 6cfe4a7f6622f0e1bc0b77d94b261e02f7cdac8d
+SHA256: 75f0aaaf57b90fd390af1dcefe95bb2ed94eadd1ad3f5ddb9eb60621c2c14197
+Description: BrainyPi AI API server
+ REST API server for AI applications.
+
+Package: brainypi-ai-server1
+Version: 1.0.0
+Architecture: arm64
+Maintainer: BrainyPi Team <support@brainypi.com>
+Filename: ./api/brainypi-ai-server-proto_1.0-1_arm64.deb
+Size: 84723104
+MD5sum: 81bb75aebe1b2c3e05d7b21e1cf4f89c
+SHA1: 74b12ec4d07a2fe6f2b419de6e4661640056eadb
+SHA256: 510bf51063abbb8c523c52467c0eff1d490bc34548858989e87f83b1bdc690bb
+Description: BrainyPi AI API server
+ REST API server for AI applications.
+
 Package: brainypi-gpio-server
 Version: 1.0
 Architecture: arm64
